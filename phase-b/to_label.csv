@@ -1,0 +1,54 @@
+question,answer_a,answer_b
+"Dựa trên các con số sau, hãy xác định VinTech có tuân thủ quy định bảo vệ dữ liệu cá nhân của Việt Nam không nếu các thông số không đổi?",Không tìm thấy.,Không tìm thấy.
+Xem x?t ??ng th?i c?c d? li?u v? cho bi?t So sánh số nhân viên của VinTech và tỷ lệ nhân viên kỹ thuật với doanh thu mảng kỹ thuật (VinCloud + VinAI) t? ?t nh?t hai ?o?n d? li?u?,Không tìm thấy.,Không tìm thấy.
+X?c ??nh r? ? VinTech Doanh thu của VinTech năm 2023 là bao nhiêu trong ng? c?nh t?i li?u ?? cho?,Doanh thu của VinTech năm 2023 là 2.500 tỷ VND.,Doanh thu của VinTech năm 2023 là 2.500 tỷ VND.
+"D?a v?o c? hai ?o?n th?ng tin, h?y x?c ??nh h?y so s?nh Mảng nào đóng góp nhiều nhất vào doanh thu VinTech và chi phí cơ bản của mảng đó là bao nhiêu khi k?t h?p nhi?u th?ng tin li?n quan?","Mảng đóng góp nhiều nhất vào doanh thu VinTech trong năm 2023 là VinCloud, với doanh thu 1.000 tỷ VND, chiếm 40% tổng doanh thu. 
+
+Về chi phí cơ bản của VinERP, chi phí triển khai ban đầu là 50.000.000 VND, và phí duy trì hàng năm là 15% của giá triển khai. Tuy không có thông tin cụ thể về số lượng triển khai, nếu giả sử có 300 doanh nghiệp triển khai như đã đề cập trong tài liệu, thì chi phí duy trì hàng năm cho VinERP sẽ là:
+
+- Phí duy trì cho một doanh nghiệp: 15% * 50.000.000 = 7.500.000 VND
+- Tổng phí duy trì cho 300 doanh nghiệp: 300 * 7.500.000 = 2.250.000.000 VND
+
+Tóm lại, VinCloud là mảng có doanh thu lớn nhất, còn chi phí duy trì hàng năm cho VinERP (nếu có 300 doanh nghiệp) là 2.250.000.000 VND.","Mảng VinCloud đóng góp nhiều nhất vào doanh thu của VinTech với 40% doanh thu, tương đương 1.000 tỷ VND. 
+
+Đối với chi phí cơ bản của mảng VinERP, phí triển khai ban đầu là từ 50.000.000 VND và phí duy trì hàng năm là 15% giá triển khai. Tuy nhiên, thông tin chi tiết về tổng chi phí cơ bản cho VinERP không được nêu rõ trong context. 
+
+Do đó, có thể xác định rằng mảng VinCloud có doanh thu cao nhất, nhưng không đủ thông tin để xác định chi phí tổng thể của mảng VinERP."
+T?m t?t v? VinCloud có bao nhiêu gói dịch vụ và giá mỗi gói là bao nhiêu ng?n g?n theo d? li?u cung c?p?,"VinCloud có 3 gói dịch vụ: 
+1. Gói Basic: 500.000 VND/tháng, 10 vCPU, 20GB RAM.
+2. Gói Pro: 2.000.000 VND/tháng, 40 vCPU, 80GB RAM.
+3. Gói Enterprise: liên hệ báo giá.","VinCloud có 3 gói dịch vụ: 
+1. Gói Basic: 500.000 VND/tháng, 10 vCPU, 20GB RAM.
+2. Gói Pro: 2.000.000 VND/tháng, 40 vCPU, 80GB RAM.
+3. Gói Enterprise: liên hệ báo giá, không giới hạn."
+X?c ??nh r? xin h?y Chính sách hoàn tiền trong 7 ngày đầu của VinTech như thế nào trong ng? c?nh t?i li?u ?? cho?,Không tìm thấy.,VinTech hoàn 100% tiền nếu hủy trong vòng 7 ngày kể từ ngày kích hoạt và sản phẩm chưa được sử dụng.
+Ph?i h?p d? li?u v? So sánh số nhân viên của VinTech và tỷ lệ nhân viên kỹ thuật với doanh thu mảng kỹ thuật (VinCloud + VinAI) khi k?t h?p nhi?u th?ng tin li?n quan?,Không tìm thấy.,Không tìm thấy.
+K?t n?i c?c th?ng tin d??i ??y ?? tr? l?i v? So sánh số nhân viên của VinTech và tỷ lệ nhân viên kỹ thuật với doanh thu mảng kỹ thuật (VinCloud + VinAI) khi k?t h?p nhi?u th?ng tin li?n quan?,"VinTech hiện có hơn 5.000 nhân viên. Doanh thu của mảng VinCloud và VinAI là:
+
+- VinCloud: 1.000 tỷ VND (40% tổng doanh thu)
+- VinAI: 375 tỷ VND (15% tổng doanh thu)
+
+Tổng doanh thu từ mảng kỹ thuật (VinCloud + VinAI) là 1.375 tỷ VND. 
+
+Để so sánh tỷ lệ nhân viên kỹ thuật với doanh thu, nếu giả định toàn bộ nhân viên đều là nhân viên kỹ thuật (không có thông tin cụ thể về tỷ lệ nhân viên kỹ thuật), thì tỷ lệ nhân viên với doanh thu mảng kỹ thuật sẽ là:
+
+- Tỷ lệ doanh thu trên đầu nhân viên = 1.375 tỷ VND / 5.000 nhân viên = 275 triệu VND/nhân viên.
+
+Tuy nhiên, thông tin cụ thể về số lượng nhân viên kỹ thuật không được cung cấp, do đó không thể xác định tỷ lệ chính xác.","VinTech hiện có 5.000 nhân viên, trong đó 60% là nhân viên kỹ thuật (Engineering). Điều này có nghĩa là số nhân viên kỹ thuật là 3.000 người.
+
+Trong năm 2023, doanh thu từ mảng kỹ thuật (bao gồm VinCloud và VinAI) là:
+- VinCloud: 1.000 tỷ VND
+- VinAI: 375 tỷ VND
+
+Tổng doanh thu từ mảng kỹ thuật là 1.000 + 375 = 1.375 tỷ VND.
+
+So sánh:
+- Số nhân viên kỹ thuật: 3.000
+- Doanh thu từ mảng kỹ thuật: 1.375 tỷ VND
+
+Từ đó, doanh thu trung bình mỗi nhân viên kỹ thuật đóng góp là:
+1.375 tỷ VND / 3.000 nhân viên = khoảng 458,33 triệu VND/người. 
+
+Do đó, VinTech có một số lượng lớn nhân viên kỹ thuật và doanh thu từ các mảng kỹ thuật cũng khá ấn tượng."
+"T?ng h?p v? k?t lu?n h?y t?nh Nếu VinCloud downtime 12 giờ trong năm, khách hàng được bồi thường bao nhiêu trong b?i c?nh hi?n t?i?","Nếu VinCloud downtime 12 giờ trong năm, thời gian uptime sẽ là 365 ngày - 12 giờ, tức là uptime sẽ dưới 99.0%. Theo chính sách SLA, khách hàng sẽ được bồi thường 25% phí tháng.",Không tìm thấy.
+Xin cho bi?t v? VinTech có bao nhiêu nhân viên trong ng? c?nh t?i li?u ?? cho?,VinTech có 5.000 nhân viên tính đến Q4 2023.,VinTech có 5.000 nhân viên tính đến Q4 2023.

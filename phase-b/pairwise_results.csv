@@ -1,0 +1,108 @@
+question,answer_a,answer_b,run1_winner,run2_winner,winner_after_swap,reason
+"Dựa trên các con số sau, hãy xác định VinTech có tuân thủ quy định bảo vệ dữ liệu cá nhân của Việt Nam không nếu các thông số không đổi?",Không tìm thấy.,Không tìm thấy.,tie,tie,tie,"Both answers provide the same response of 'Không tìm thấy,' which reflects a lack of information regarding whether VinTech complies with personal data protection regulations in Vietnam."
+Xem x?t ??ng th?i c?c d? li?u v? cho bi?t So sánh số nhân viên của VinTech và tỷ lệ nhân viên kỹ thuật với doanh thu mảng kỹ thuật (VinCloud + VinAI) t? ?t nh?t hai ?o?n d? li?u?,Không tìm thấy.,Không tìm thấy.,tie,tie,tie,"Both answers are identical, providing no information or data related to the question, and thus equally irrelevant."
+X?c ??nh r? ? VinTech Doanh thu của VinTech năm 2023 là bao nhiêu trong ng? c?nh t?i li?u ?? cho?,Doanh thu của VinTech năm 2023 là 2.500 tỷ VND.,Doanh thu của VinTech năm 2023 là 2.500 tỷ VND.,tie,tie,tie,"Both answers provide the same factual information regarding VinTech's revenue in 2023, and they are equally relevant and concise."
+"D?a v?o c? hai ?o?n th?ng tin, h?y x?c ??nh h?y so s?nh Mảng nào đóng góp nhiều nhất vào doanh thu VinTech và chi phí cơ bản của mảng đó là bao nhiêu khi k?t h?p nhi?u th?ng tin li?n quan?","Mảng đóng góp nhiều nhất vào doanh thu VinTech trong năm 2023 là VinCloud, với doanh thu 1.000 tỷ VND, chiếm 40% tổng doanh thu. 
+
+Về chi phí cơ bản của VinERP, chi phí triển khai ban đầu là 50.000.000 VND, và phí duy trì hàng năm là 15% của giá triển khai. Tuy không có thông tin cụ thể về số lượng triển khai, nếu giả sử có 300 doanh nghiệp triển khai như đã đề cập trong tài liệu, thì chi phí duy trì hàng năm cho VinERP sẽ là:
+
+- Phí duy trì cho một doanh nghiệp: 15% * 50.000.000 = 7.500.000 VND
+- Tổng phí duy trì cho 300 doanh nghiệp: 300 * 7.500.000 = 2.250.000.000 VND
+
+Tóm lại, VinCloud là mảng có doanh thu lớn nhất, còn chi phí duy trì hàng năm cho VinERP (nếu có 300 doanh nghiệp) là 2.250.000.000 VND.","Mảng VinCloud đóng góp nhiều nhất vào doanh thu của VinTech với 40% doanh thu, tương đương 1.000 tỷ VND. 
+
+Đối với chi phí cơ bản của mảng VinERP, phí triển khai ban đầu là từ 50.000.000 VND và phí duy trì hàng năm là 15% giá triển khai. Tuy nhiên, thông tin chi tiết về tổng chi phí cơ bản cho VinERP không được nêu rõ trong context. 
+
+Do đó, có thể xác định rằng mảng VinCloud có doanh thu cao nhất, nhưng không đủ thông tin để xác định chi phí tổng thể của mảng VinERP.",A,B,A,"Answer A provides a complete response to the question by identifying the segment that contributes the most to VinTech's revenue (VinCloud) and calculating the annual maintenance costs for VinERP based on reasonable assumptions. Answer B, while correct in identifying VinCloud's contribution, fails to provide a comprehensive analysis of VinERP's costs due to a lack of detailed financial calculation."
+T?m t?t v? VinCloud có bao nhiêu gói dịch vụ và giá mỗi gói là bao nhiêu ng?n g?n theo d? li?u cung c?p?,"VinCloud có 3 gói dịch vụ: 
+1. Gói Basic: 500.000 VND/tháng, 10 vCPU, 20GB RAM.
+2. Gói Pro: 2.000.000 VND/tháng, 40 vCPU, 80GB RAM.
+3. Gói Enterprise: liên hệ báo giá.","VinCloud có 3 gói dịch vụ: 
+1. Gói Basic: 500.000 VND/tháng, 10 vCPU, 20GB RAM.
+2. Gói Pro: 2.000.000 VND/tháng, 40 vCPU, 80GB RAM.
+3. Gói Enterprise: liên hệ báo giá, không giới hạn.",B,A,B,"Both answers are factually accurate and relevant to the question. However, Answer B adds more detail by stating 'không giới hạn' for the Enterprise package, which provides clearer information for the user regarding the service's flexibility."
+X?c ??nh r? xin h?y Chính sách hoàn tiền trong 7 ngày đầu của VinTech như thế nào trong ng? c?nh t?i li?u ?? cho?,Không tìm thấy.,VinTech hoàn 100% tiền nếu hủy trong vòng 7 ngày kể từ ngày kích hoạt và sản phẩm chưa được sử dụng.,B,A,B,"Answer B provides accurate information regarding VinTech's refund policy, directly addressing the question, while Answer A gives no information."
+Ph?i h?p d? li?u v? So sánh số nhân viên của VinTech và tỷ lệ nhân viên kỹ thuật với doanh thu mảng kỹ thuật (VinCloud + VinAI) khi k?t h?p nhi?u th?ng tin li?n quan?,Không tìm thấy.,Không tìm thấy.,tie,tie,tie,"Both answers provide the same level of response, indicating no information was found, making them equal in terms of factual accuracy, relevance, and conciseness."
+K?t n?i c?c th?ng tin d??i ??y ?? tr? l?i v? So sánh số nhân viên của VinTech và tỷ lệ nhân viên kỹ thuật với doanh thu mảng kỹ thuật (VinCloud + VinAI) khi k?t h?p nhi?u th?ng tin li?n quan?,"VinTech hiện có hơn 5.000 nhân viên. Doanh thu của mảng VinCloud và VinAI là:
+
+- VinCloud: 1.000 tỷ VND (40% tổng doanh thu)
+- VinAI: 375 tỷ VND (15% tổng doanh thu)
+
+Tổng doanh thu từ mảng kỹ thuật (VinCloud + VinAI) là 1.375 tỷ VND. 
+
+Để so sánh tỷ lệ nhân viên kỹ thuật với doanh thu, nếu giả định toàn bộ nhân viên đều là nhân viên kỹ thuật (không có thông tin cụ thể về tỷ lệ nhân viên kỹ thuật), thì tỷ lệ nhân viên với doanh thu mảng kỹ thuật sẽ là:
+
+- Tỷ lệ doanh thu trên đầu nhân viên = 1.375 tỷ VND / 5.000 nhân viên = 275 triệu VND/nhân viên.
+
+Tuy nhiên, thông tin cụ thể về số lượng nhân viên kỹ thuật không được cung cấp, do đó không thể xác định tỷ lệ chính xác.","VinTech hiện có 5.000 nhân viên, trong đó 60% là nhân viên kỹ thuật (Engineering). Điều này có nghĩa là số nhân viên kỹ thuật là 3.000 người.
+
+Trong năm 2023, doanh thu từ mảng kỹ thuật (bao gồm VinCloud và VinAI) là:
+- VinCloud: 1.000 tỷ VND
+- VinAI: 375 tỷ VND
+
+Tổng doanh thu từ mảng kỹ thuật là 1.000 + 375 = 1.375 tỷ VND.
+
+So sánh:
+- Số nhân viên kỹ thuật: 3.000
+- Doanh thu từ mảng kỹ thuật: 1.375 tỷ VND
+
+Từ đó, doanh thu trung bình mỗi nhân viên kỹ thuật đóng góp là:
+1.375 tỷ VND / 3.000 nhân viên = khoảng 458,33 triệu VND/người. 
+
+Do đó, VinTech có một số lượng lớn nhân viên kỹ thuật và doanh thu từ các mảng kỹ thuật cũng khá ấn tượng.",B,A,B,"Answer B provides more accurate and relevant information by specifying the percentage of technical staff and calculating the average revenue contribution per technical employee. It directly addresses the question regarding the comparison of staff numbers and their contribution to revenue, while Answer A lacks clarity on the number of technical employees."
+"T?ng h?p v? k?t lu?n h?y t?nh Nếu VinCloud downtime 12 giờ trong năm, khách hàng được bồi thường bao nhiêu trong b?i c?nh hi?n t?i?","Nếu VinCloud downtime 12 giờ trong năm, thời gian uptime sẽ là 365 ngày - 12 giờ, tức là uptime sẽ dưới 99.0%. Theo chính sách SLA, khách hàng sẽ được bồi thường 25% phí tháng.",Không tìm thấy.,A,B,A,"Answer A provides a factual and relevant response to the question regarding compensation for downtime, whereas Answer B does not provide any information."
+Xin cho bi?t v? VinTech có bao nhiêu nhân viên trong ng? c?nh t?i li?u ?? cho?,VinTech có 5.000 nhân viên tính đến Q4 2023.,VinTech có 5.000 nhân viên tính đến Q4 2023.,tie,tie,tie,"Both answers are identical in content, providing the same factual information about the number of employees at VinTech as of Q4 2023. They are equally accurate, relevant, and concise."
+"X?c ??nh theo suy lu?n Nếu VinCloud downtime 12 giờ trong năm, khách hàng được bồi thường bao nhiêu trong b?i c?nh hi?n t?i?",Khách hàng sẽ được bồi thường 50% phí tháng vì uptime dưới 95.0%.,"Nếu VinCloud downtime 12 giờ trong năm, mà uptime sẽ là dưới 99.0%, khách hàng sẽ được bồi thường 25% phí tháng.",B,B,tie,"Answer B provides a more accurate assessment of the downtime and the corresponding compensation, specifying that 12 hours of downtime results in an uptime below 99.0%, which aligns with typical compensation policies. Answer A provides incorrect information about the percentage compensation related to uptime thresholds."
+"T? c?c ngu?n d? li?u sau, h?y t?ng h?p h?y t?ng h?p Mảng nào đóng góp nhiều nhất vào doanh thu VinTech và chi phí cơ bản của mảng đó là bao nhiêu t? ?t nh?t hai ?o?n d? li?u?","Mảng đóng góp nhiều nhất vào doanh thu VinTech là VinCloud với 1.000 tỷ VND, chiếm 40% doanh thu. Chi phí cơ bản của mảng VinERP là 50.000.000 VND (phí triển khai ban đầu).","Mảng đóng góp nhiều nhất vào doanh thu VinTech là VinCloud, chiếm 40% doanh thu với giá trị 1.000 tỷ VND. Chi phí triển khai ban đầu của mảng VinERP là từ 50.000.000 VND tùy quy mô, nhưng không có thông tin chi tiết về chi phí của mảng VinCloud. Không tìm thấy.",A,B,A,"Answer A provides a clear and accurate response to the question regarding the highest contributing segment and its specific revenue and costs, while Answer B lacks detailed information about the costs associated with VinCloud."
+Tr?nh b?y VinCloud có bao nhiêu gói dịch vụ và giá mỗi gói là bao nhiêu trong ng? c?nh t?i li?u ?? cho?,"VinCloud cung cấp 3 gói dịch vụ: 
+1. Gói Basic: 500.000 VND/tháng, 10 vCPU, 20GB RAM.
+2. Gói Pro: 2.000.000 VND/tháng, 40 vCPU, 80GB RAM.
+3. Gói Enterprise: Liên hệ báo giá, không giới hạn.","VinCloud có 3 gói dịch vụ:
+1. Gói Basic: 500.000 VND/tháng, 10 vCPU, 20GB RAM.
+2. Gói Pro: 2.000.000 VND/tháng, 40 vCPU, 80GB RAM.
+3. Gói Enterprise: Liên hệ báo giá, không giới hạn.",tie,tie,tie,"Both answers provide the same factual information regarding the service packages offered by VinCloud, including the pricing and specifications for each package. They are equally relevant to the question and concise in their presentation."
+M? t? ng?n ? VinTech VinCloud có bao nhiêu gói dịch vụ và giá mỗi gói là bao nhiêu trong ng? c?nh t?i li?u ?? cho?,"VinCloud có 3 gói dịch vụ: 
+1. Gói Basic: 500.000 VND/tháng, 10 vCPU, 20GB RAM.
+2. Gói Pro: 2.000.000 VND/tháng, 40 vCPU, 80GB RAM.
+3. Gói Enterprise: Liên hệ báo giá, không giới hạn.","VinCloud có 3 gói dịch vụ: 
+
+1. Gói Basic: 500.000 VND/tháng, 10 vCPU, 20GB RAM
+2. Gói Pro: 2.000.000 VND/tháng, 40 vCPU, 80GB RAM
+3. Gói Enterprise: Liên hệ báo giá, không giới hạn.",tie,tie,tie,"Both answers provide the same factual information regarding the service packages of VinCloud, including the names, prices, and specifications. They are equally relevant to the question and concise."
+"H?y suy lu?n v? Nếu VinCloud downtime 12 giờ trong năm, khách hàng được bồi thường bao nhiêu n?u c?c th?ng s? kh?ng ??i?","Nếu VinCloud downtime 12 giờ trong năm, tức là uptime dưới 99.0% (thời gian downtime tối đa cho uptime 99.0% là 8.76 giờ/năm). Theo chính sách bồi thường, khách hàng sẽ nhận được 25% phí tháng cho downtime trong khoảng từ 95.0-99.0%.","Nếu VinCloud downtime là 12 giờ trong năm, uptime sẽ thấp hơn mức 99.0%. Theo chính sách SLA, nếu uptime dưới 95.0%, khách hàng sẽ được bồi thường 50% phí tháng.",A,B,A,"Answer A accurately explains the situation regarding downtime and the corresponding compensation based on uptime thresholds. It correctly identifies that with 12 hours of downtime, the uptime falls below the 99.0% threshold and provides specific compensation details. Answer B misrepresents the SLA terms, stating a higher compensation percentage for uptime below 95.0%, which is inconsistent with the information provided in Answer A."
+Gi? s? h?y t?nh VinTech có tuân thủ quy định bảo vệ dữ liệu cá nhân của Việt Nam không trong b?i c?nh hi?n t?i?,VinTech tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân tại Việt Nam.,"Có, VinTech tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân tại Việt Nam.",B,A,B,"Both answers provide factual accuracy and relevance; however, Answer B is more straightforward and concise with a clear affirmation, while Answer A is less direct."
+Ph?i h?p d? li?u v? v? Mảng nào đóng góp nhiều nhất vào doanh thu VinTech và chi phí cơ bản của mảng đó là bao nhiêu t? ?t nh?t hai ?o?n d? li?u?,"Mảng đóng góp nhiều nhất vào doanh thu VinTech là VinCloud, chiếm 40% với 1.000 tỷ VND. Chi phí cơ bản để triển khai phần mềm VinERP là 50.000.000 VND, tùy thuộc vào quy mô.","Mảng VinCloud đóng góp nhiều nhất vào doanh thu VinTech với 40% (1.000 tỷ VND). Chi phí cơ bản của mảng VinERP là phí triển khai ban đầu từ 50.000.000 VND tùy quy mô, và phí duy trì hàng năm là 15% giá triển khai.",B,B,tie,"Answer B provides accurate and relevant information regarding both the revenue contribution and the detailed cost structure, including ongoing maintenance fees, which adds valuable context."
+N?u v? VinTech có tuân thủ quy định bảo vệ dữ liệu cá nhân của Việt Nam không n?u c?c th?ng s? kh?ng ??i?,VinTech tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân tại Việt Nam.,VinTech tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân tại Việt Nam.,tie,tie,tie,"Both answers provide the same factual information regarding VinTech's compliance with the relevant regulation, making them equally accurate, relevant, and concise."
+"Xem x?t t?nh hu?ng v? Nếu VinCloud downtime 12 giờ trong năm, khách hàng được bồi thường bao nhiêu n?u c?c th?ng s? kh?ng ??i?","Nếu VinCloud downtime 12 giờ trong năm, uptime sẽ thấp hơn 95.0%. Theo chính sách SLA, khách hàng sẽ được bồi thường 50% phí tháng.","Nếu VinCloud downtime 12 giờ trong năm, uptime sẽ dưới 95.0%. Theo chính sách SLA, khách hàng sẽ được bồi thường 50% phí tháng.",tie,tie,tie,"Both answers provide accurate information regarding the implications of 12 hours of downtime and the corresponding SLA compensation, stating the impact on uptime and the percentage of compensation. They are also similarly concise and relevant to the question asked."
+Trong tr??ng h?p v? VinTech có tuân thủ quy định bảo vệ dữ liệu cá nhân của Việt Nam không trong b?i c?nh hi?n t?i?,VinTech tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân tại Việt Nam.,"Có, VinTech tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân tại Việt Nam.",tie,A,tie,"Both answers provide the same essential information, confirming VinTech's compliance with the relevant decree. Answer A is slightly more formal, while Answer B is straightforward. Neither answer is more concise or relevant than the other."
+K?t n?i c?c th?ng tin d??i ??y ?? tr? l?i h?y so s?nh Mảng nào đóng góp nhiều nhất vào doanh thu VinTech và chi phí cơ bản của mảng đó là bao nhiêu t? ?t nh?t hai ?o?n d? li?u?,"Mảng đóng góp nhiều nhất vào doanh thu của VinTech là VinCloud với 1.000 tỷ VND, chiếm 40% doanh thu. Mảng VinERP đứng thứ hai với doanh thu 875 tỷ VND, chiếm 35% doanh thu. 
+
+Chi phí cơ bản của mảng VinERP bao gồm phí triển khai ban đầu từ 50.000.000 VND tùy quy mô và phí duy trì hàng năm 15% giá triển khai. Tuy nhiên, thông tin cụ thể về quy mô để tính chi phí duy trì không có sẵn.","Mảng VinCloud đóng góp nhiều nhất vào doanh thu của VinTech với 1.000 tỷ VND, chiếm 40% doanh thu. Chi phí cơ bản của mảng VinERP là 50.000.000 VND cho phí triển khai ban đầu và 15% giá triển khai cho phí duy trì hàng năm.",A,B,A,"Answer A provides a more detailed explanation of the basic costs associated with the VinERP segment by indicating that the maintenance fee is dependent on the implementation costs, despite the lack of specific scale information. Answer B, while correct, lacks this additional context."
+"D?a v?o d? li?u, h?y suy ra v? Nếu doanh thu VinTech tăng trưởng cùng tốc độ năm 2023, doanh thu 2024 dự kiến là bao nhiêu n?u c?c th?ng s? kh?ng ??i?","Doanh thu năm 2023 của VinTech là 2.500 tỷ VND, tăng 25% so với năm 2022. Nếu doanh thu 2024 cũng tăng trưởng cùng tốc độ 25%, doanh thu dự kiến năm 2024 sẽ là:
+
+Doanh thu 2024 = Doanh thu 2023 * (1 + Tăng trưởng)
+Doanh thu 2024 = 2.500 tỷ VND * (1 + 0.25) = 2.500 tỷ VND * 1.25 = 3.125 tỷ VND.
+
+Vậy doanh thu dự kiến của VinTech năm 2024 là 3.125 tỷ VND.","Nếu doanh thu VinTech tăng trưởng cùng tốc độ 25% trong năm 2024, doanh thu dự kiến sẽ là:
+
+Doanh thu 2023 = 2.500 tỷ VND
+Tăng trưởng = 25%
+
+Doanh thu 2024 = Doanh thu 2023 + (Doanh thu 2023 * Tăng trưởng)  
+= 2.500 tỷ VND + (2.500 tỷ VND * 0.25)  
+= 2.500 tỷ VND + 625 tỷ VND  
+= 3.125 tỷ VND
+
+Do đó, doanh thu 2024 dự kiến sẽ là 3.125 tỷ VND.",tie,tie,tie,Both answers accurately calculate the projected revenue for VinTech in 2024 based on the same growth rate and provide the same final figure of 3.125 trillion VND. They both are relevant to the question and are clear and concise in their explanations.
+Xin cho bi?t v? VinTech có bao nhiêu nhân viên trong ng? c?nh t?i li?u ?? cho?,VinTech có 5.000 nhân viên tính đến Q4 2023.,VinTech có 5.000 nhân viên tính đến Q4 2023.,tie,tie,tie,Both answers provide the same factual information regarding the number of employees at VinTech and are equally relevant and concise.
+H?y ph?n t?ch k?t h?p v? So sánh số nhân viên của VinTech và tỷ lệ nhân viên kỹ thuật với doanh thu mảng kỹ thuật (VinCloud + VinAI) t? ?t nh?t hai ?o?n d? li?u?,Không tìm thấy.,Không tìm thấy.,tie,tie,tie,"Both answers provide the same response of 'Không tìm thấy', indicating that the information is not available, making them equally factual, relevant, and concise."
+M? t? ng?n Chính sách hoàn tiền trong 7 ngày đầu của VinTech như thế nào ng?n g?n theo d? li?u cung c?p?,Chính sách hoàn tiền của VinTech trong 7 ngày đầu: Hoàn 100% nếu hủy trong vòng 7 ngày kể từ ngày kích hoạt (chưa sử dụng).,Hoàn 100% nếu hủy trong vòng 7 ngày kể từ ngày kích hoạt (chưa sử dụng).,B,B,tie,"Both answers provide the same factual content and relevance to the question, but Answer B is more concise and directly addresses the specific aspect of the question without extraneous wording."
+H?y ??i chi?u v? Mảng nào đóng góp nhiều nhất vào doanh thu VinTech và chi phí cơ bản của mảng đó là bao nhiêu t? ?t nh?t hai ?o?n d? li?u?,"Mảng đóng góp nhiều nhất vào doanh thu VinTech là VinCloud, chiếm 40% doanh thu với 1.000 tỷ VND. Chi phí cơ bản của mảng VinERP là phí triển khai ban đầu từ 50.000.000 VND (tùy quy mô) và phí duy trì hàng năm là 15% giá triển khai.",Mảng đóng góp nhiều nhất vào doanh thu VinTech là VinCloud với 1.000 tỷ VND. Chi phí cơ bản của mảng VinERP là 50.000.000 VND cho phí triển khai ban đầu.,A,B,A,"Answer A provides a more detailed breakdown of both the contribution to revenue and the basic costs associated with VinERP, enhancing its factual accuracy and relevance. Additionally, it includes the annual maintenance fee, which adds valuable context that Answer B lacks."
+"Trong tr??ng h?p Nếu doanh thu VinTech tăng trưởng cùng tốc độ năm 2023, doanh thu 2024 dự kiến là bao nhiêu trong b?i c?nh hi?n t?i?",Không tìm thấy.,"Nếu doanh thu VinTech tăng trưởng cùng tốc độ năm 2023 là 25%, thì doanh thu dự kiến của VinTech trong năm 2024 sẽ là:
+
+2.500 tỷ VND * (1 + 0.25) = 2.500 tỷ VND * 1.25 = 3.125 tỷ VND.
+
+Vậy doanh thu 2024 dự kiến là 3.125 tỷ VND.",B,A,B,"Answer B provides a clear calculation based on the assumption of a 25% growth rate, directly addressing the question with relevant and factual information. Answer A does not provide any information."
+"D?a v?o d? li?u, h?y suy ra v? VinTech có tuân thủ quy định bảo vệ dữ liệu cá nhân của Việt Nam không n?u c?c th?ng s? kh?ng ??i?",VinTech tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân tại Việt Nam.,VinTech tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân tại Việt Nam.,tie,tie,tie,"Both answers provide the same information regarding VinTech's compliance with the data protection regulation in Vietnam, lacking any differentiation in factual accuracy, relevance, or conciseness."
+"D?a v?o c? hai ?o?n th?ng tin, h?y x?c ??nh h?y t?ng h?p Mảng nào đóng góp nhiều nhất vào doanh thu VinTech và chi phí cơ bản của mảng đó là bao nhiêu t? ?t nh?t hai ?o?n d? li?u?","Mảng đóng góp nhiều nhất vào doanh thu VinTech là VinCloud, với doanh thu 1.000 tỷ VND. Chi phí cơ bản của mảng VinERP là phí triển khai ban đầu từ 50.000.000 VND và phí duy trì hàng năm 15% giá triển khai.","Mảng đóng góp nhiều nhất vào doanh thu VinTech là VinCloud với 40% doanh thu, tương đương 1.000 tỷ VND. Chi phí cơ bản cho mảng VinERP (mảng xếp thứ hai với 35% doanh thu, 875 tỷ VND) là phí triển khai ban đầu từ 50.000.000 VND và phí duy trì hàng năm 15% giá triển khai.",B,A,B,"Answer B is factually accurate, provides relevant information regarding both VinCloud and VinERP, and maintains conciseness while offering additional context about the ranking of VinERP in relation to its revenue contribution."
+Cho t?i bi?t trong h? th?ng n?y VinTech có bao nhiêu nhân viên trong ng? c?nh t?i li?u ?? cho?,VinTech có 5.000 nhân viên tính đến Q4 2023.,VinTech có 5.000 nhân viên tính đến Q4 2023.,tie,tie,tie,"Both answers provide the same factual information regarding the number of employees at VinTech in Q4 2023, and both are equally relevant and concise."

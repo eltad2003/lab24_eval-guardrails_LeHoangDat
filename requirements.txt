@@ -1,0 +1,17 @@
+ragas
+qdrant-client
+sentence-transformers
+rank_bm25
+underthesea
+openai
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+pandas
+numpy
+pydantic
+FlagEmbedding
+flashrank
+tqdm
+pytest

@@ -1,0 +1,62 @@
+[
+  {
+    "doc_id": "doc_001",
+    "title": "Tổng Quan Công Ty VinTech",
+    "content": "VinTech là công ty công nghệ hàng đầu Việt Nam, được thành lập năm 2010 tại Hà Nội bởi ông Nguyễn Văn Minh. VinTech hiện có hơn 5.000 nhân viên và văn phòng tại Hà Nội, TP.HCM và Đà Nẵng. Doanh thu năm 2023 đạt 2.500 tỷ VND, tăng 25% so với năm 2022. Công ty chuyên cung cấp các giải pháp cloud, AI và phần mềm doanh nghiệp.",
+    "category": "company_info"
+  },
+  {
+    "doc_id": "doc_002",
+    "title": "Sản Phẩm VinCloud",
+    "content": "VinCloud là nền tảng điện toán đám mây của VinTech, ra mắt năm 2018. VinCloud cung cấp 3 gói dịch vụ: Basic (500.000 VND/tháng, 10 vCPU, 20GB RAM), Pro (2.000.000 VND/tháng, 40 vCPU, 80GB RAM), và Enterprise (liên hệ báo giá, không giới hạn). Uptime cam kết 99.9% theo SLA. Hiện có hơn 1.200 doanh nghiệp đang sử dụng VinCloud.",
+    "category": "product"
+  },
+  {
+    "doc_id": "doc_003",
+    "title": "Nền Tảng VinAI Platform",
+    "content": "VinAI Platform là bộ công cụ AI/ML do VinTech phát triển, ra mắt năm 2021. Nền tảng hỗ trợ training model, deployment và monitoring tự động. Giá khởi điểm 3.000.000 VND/tháng cho gói Starter (10 model deployments). Gói Team có giá 8.000.000 VND/tháng (50 deployments). Hiện tích hợp với các framework phổ biến: PyTorch, TensorFlow, scikit-learn.",
+    "category": "product"
+  },
+  {
+    "doc_id": "doc_004",
+    "title": "Phần Mềm VinERP",
+    "content": "VinERP là giải pháp quản trị doanh nghiệp toàn diện của VinTech. Bao gồm các module: Kế toán, Nhân sự, Kho vận, CRM và Mua sắm. Phí triển khai ban đầu từ 50.000.000 VND tùy quy mô. Phí duy trì hàng năm 15% giá triển khai. Hiện có 300 doanh nghiệp sử dụng VinERP, trong đó 50 doanh nghiệp FDI.",
+    "category": "product"
+  },
+  {
+    "doc_id": "doc_005",
+    "title": "Chính Sách SLA",
+    "content": "VinTech cam kết SLA như sau: VinCloud uptime 99.9% (downtime tối đa 8.76 giờ/năm). Nếu uptime dưới 99.9%, khách hàng được bồi thường: 99.0-99.9% → 10% phí tháng; 95.0-99.0% → 25% phí tháng; dưới 95.0% → 50% phí tháng. Thời gian phản hồi support: P1 (critical) trong 1 giờ, P2 trong 4 giờ, P3 trong 24 giờ.",
+    "category": "policy"
+  },
+  {
+    "doc_id": "doc_006",
+    "title": "Chính Sách Hoàn Tiền",
+    "content": "VinTech áp dụng chính sách hoàn tiền như sau: Hoàn 100% nếu hủy trong vòng 7 ngày kể từ ngày kích hoạt (chưa sử dụng). Hoàn 50% nếu hủy trong ngày 8-30 (pro-rated theo ngày thực tế sử dụng). Không hoàn tiền sau 30 ngày. Phí triển khai ban đầu không được hoàn. Yêu cầu hoàn tiền phải gửi qua email support@vintech.vn kèm số hợp đồng.",
+    "category": "policy"
+  },
+  {
+    "doc_id": "doc_007",
+    "title": "Chính Sách Bảo Mật Dữ Liệu",
+    "content": "VinTech tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân tại Việt Nam. Dữ liệu khách hàng được mã hóa AES-256 khi lưu trữ và TLS 1.3 khi truyền tải. VinTech không bán dữ liệu cho bên thứ ba. Khách hàng có quyền yêu cầu xóa dữ liệu trong vòng 30 ngày. Dữ liệu được backup tự động mỗi ngày và lưu trữ tối đa 90 ngày.",
+    "category": "policy"
+  },
+  {
+    "doc_id": "doc_008",
+    "title": "Tài Chính và Đầu Tư 2023",
+    "content": "Năm 2023, VinTech đạt doanh thu 2.500 tỷ VND (tăng 25% YoY). Lợi nhuận sau thuế 375 tỷ VND (biên lợi nhuận 15%). Doanh thu theo mảng: VinCloud 40% (1.000 tỷ), VinERP 35% (875 tỷ), VinAI 15% (375 tỷ), dịch vụ khác 10% (250 tỷ). R&D chiếm 12% doanh thu. VinTech đặt mục tiêu IPO trên HoSE vào Q3 2025.",
+    "category": "financial"
+  },
+  {
+    "doc_id": "doc_009",
+    "title": "Hỗ Trợ Kỹ Thuật và Tài Liệu API",
+    "content": "VinTech cung cấp REST API v2.0 cho tất cả sản phẩm. Authentication sử dụng Bearer Token (JWT). Rate limit: 1.000 requests/phút cho gói Basic, 10.000 requests/phút cho gói Pro/Enterprise. SDK hỗ trợ: Python, Node.js, Java, Go. Tài liệu API tại docs.vintech.vn. Sandbox environment miễn phí tại sandbox.vintech.vn. Webhook hỗ trợ retry 3 lần với exponential backoff.",
+    "category": "technical"
+  },
+  {
+    "doc_id": "doc_010",
+    "title": "Nhân Sự và Văn Hóa Công Ty",
+    "content": "VinTech có 5.000 nhân viên tính đến Q4 2023. Cơ cấu: Engineering 60%, Sales & Marketing 20%, Operations 15%, C-Suite/Management 5%. Phúc lợi bao gồm: BHYT tư nhân cao cấp, 15 ngày phép năm (thêm 1 ngày mỗi năm làm), thưởng tháng 13, cổ phiếu ESOP cho senior staff. Chương trình VinTech Academy đào tạo 200 giờ/năm/nhân viên.",
+    "category": "hr"
+  }
+]

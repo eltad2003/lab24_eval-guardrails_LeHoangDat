@@ -1,0 +1,102 @@
+[
+  {
+    "id": "j001",
+    "question": "Doanh thu VinTech năm 2023 là bao nhiêu?",
+    "answer_a": "Doanh thu VinTech năm 2023 đạt 2.500 tỷ VND.",
+    "answer_b": "Doanh thu VinTech năm 2023 đạt 3.000 tỷ VND, tăng mạnh so với năm trước.",
+    "human_pairwise": "A",
+    "human_absolute_a": 5,
+    "human_absolute_b": 1,
+    "note": "A đúng, B hallucinate số liệu sai"
+  },
+  {
+    "id": "j002",
+    "question": "VinCloud có bao nhiêu gói dịch vụ?",
+    "answer_a": "VinCloud có 3 gói: Basic, Pro, Enterprise.",
+    "answer_b": "VinCloud có 3 gói dịch vụ: Basic (500.000/tháng), Pro (2.000.000/tháng), và Enterprise (liên hệ).",
+    "human_pairwise": "B",
+    "human_absolute_a": 3,
+    "human_absolute_b": 5,
+    "note": "B đầy đủ hơn, có thông tin giá cụ thể"
+  },
+  {
+    "id": "j003",
+    "question": "Thời gian phản hồi support P1 của VinTech là bao lâu?",
+    "answer_a": "P1 được phản hồi trong vòng 1 giờ theo SLA của VinTech.",
+    "answer_b": "Thời gian phản hồi P1 (critical) là trong 1 giờ, P2 là 4 giờ và P3 là 24 giờ.",
+    "human_pairwise": "B",
+    "human_absolute_a": 4,
+    "human_absolute_b": 5,
+    "note": "B bổ sung context hữu ích hơn"
+  },
+  {
+    "id": "j004",
+    "question": "VinTech có hỗ trợ ngôn ngữ lập trình nào?",
+    "answer_a": "SDK hỗ trợ Python, Node.js, Java và Go.",
+    "answer_b": "VinTech hỗ trợ nhiều ngôn ngữ lập trình bao gồm Python, Java và các ngôn ngữ khác.",
+    "human_pairwise": "A",
+    "human_absolute_a": 5,
+    "human_absolute_b": 3,
+    "note": "A cụ thể và chính xác hơn"
+  },
+  {
+    "id": "j005",
+    "question": "Chính sách backup dữ liệu của VinTech như thế nào?",
+    "answer_a": "Dữ liệu được backup tự động mỗi ngày và lưu trữ tối đa 90 ngày.",
+    "answer_b": "VinTech backup dữ liệu mỗi tuần và lưu trữ 30 ngày.",
+    "human_pairwise": "A",
+    "human_absolute_a": 5,
+    "human_absolute_b": 1,
+    "note": "A đúng, B sai thông tin (mỗi ngày vs mỗi tuần, 90 vs 30 ngày)"
+  },
+  {
+    "id": "j006",
+    "question": "VinTech được thành lập năm nào?",
+    "answer_a": "VinTech được thành lập năm 2010.",
+    "answer_b": "VinTech được thành lập năm 2010 tại Hà Nội.",
+    "human_pairwise": "tie",
+    "human_absolute_a": 4,
+    "human_absolute_b": 5,
+    "note": "Cả hai đều đúng, B chi tiết hơn chút"
+  },
+  {
+    "id": "j007",
+    "question": "Tỷ lệ nhân viên Engineering tại VinTech là bao nhiêu?",
+    "answer_a": "Engineering chiếm 60% trong tổng số 5.000 nhân viên.",
+    "answer_b": "Engineering chiếm phần lớn nhân lực của công ty.",
+    "human_pairwise": "A",
+    "human_absolute_a": 5,
+    "human_absolute_b": 2,
+    "note": "A cụ thể, B quá chung chung"
+  },
+  {
+    "id": "j008",
+    "question": "Phí hoàn tiền sau 30 ngày của VinTech là bao nhiêu?",
+    "answer_a": "Không hoàn tiền sau 30 ngày theo chính sách của VinTech.",
+    "answer_b": "VinTech hoàn 25% phí sau 30 ngày sử dụng.",
+    "human_pairwise": "A",
+    "human_absolute_a": 5,
+    "human_absolute_b": 1,
+    "note": "A đúng, B sai - không có hoàn tiền sau 30 ngày"
+  },
+  {
+    "id": "j009",
+    "question": "VinTech có kế hoạch IPO không?",
+    "answer_a": "VinTech đặt mục tiêu IPO trên HoSE vào Q3 2025.",
+    "answer_b": "Có, VinTech dự kiến IPO vào Q3 2025 trên Sàn Giao dịch Chứng khoán TP.HCM (HoSE).",
+    "human_pairwise": "tie",
+    "human_absolute_a": 5,
+    "human_absolute_b": 5,
+    "note": "Cả hai đều đúng và đầy đủ"
+  },
+  {
+    "id": "j010",
+    "question": "VinAI Platform hỗ trợ những framework nào?",
+    "answer_a": "VinAI Platform tích hợp với PyTorch, TensorFlow và scikit-learn.",
+    "answer_b": "VinAI hỗ trợ các framework AI/ML phổ biến trên thị trường hiện nay.",
+    "human_pairwise": "A",
+    "human_absolute_a": 5,
+    "human_absolute_b": 2,
+    "note": "A cụ thể, B quá mơ hồ"
+  }
+]
